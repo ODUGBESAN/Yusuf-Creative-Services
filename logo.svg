@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Yusuf Creative Services mark</title>
+  <rect x="2" y="2" width="60" height="60" rx="19" fill="#234a38"/>
+  <path d="M17 17h8l7 12 7-12h8L36 36v11h-8V36L17 17Z" fill="#f8f7f2"/>
+  <circle cx="48" cy="47" r="5" fill="#e96f4e"/>
+  <path d="M48 38v-3m0 24v-3m9-9h3m-24 0h3m18.4-6.4 2.1-2.1m-17 17-2.1 2.1m17 0-2.1-2.1m-17-17-2.1-2.1" stroke="#f0c24e" stroke-width="1.6" stroke-linecap="round"/>
+</svg>
