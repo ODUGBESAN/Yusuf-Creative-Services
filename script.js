@@ -16,9 +16,4 @@ nav.querySelectorAll('a').forEach((link) => {
   });
 });
 
-const contactForm = document.querySelector('.contact-form');
-if (contactForm) {
-  const pageUrlField = contactForm.querySelector('[name="_url"]');
-  if (pageUrlField) pageUrlField.value = window.location.href;
-}
 
