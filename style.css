@@ -1557,6 +1557,10 @@ a {
   border-radius: 12px;
   box-shadow: 9px 10px 0 rgba(24, 61, 46, .17);
 }
+.contact-card .contact-email {
+  font-size: clamp(15px, 2vw, 23px);
+  overflow-wrap: anywhere;
+}
 .yusuf-signature {
   display: block;
   margin-top: 16px;
